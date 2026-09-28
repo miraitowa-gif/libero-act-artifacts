@@ -11,7 +11,7 @@
 ## Model weights
 
 The 198MB `model.safetensors` is hosted on HuggingFace Hub:
-https://huggingface.co/你的用户名/act-libero-spatial
+https://huggingface.co/Mxue123/act-libero-spatial
 
 ## Contents
 
